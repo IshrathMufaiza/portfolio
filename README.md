@@ -1,65 +1,85 @@
 # Personal Portfolio
 
-A responsive personal developer portfolio showcasing my projects, technical skills, and web development experience.
+A responsive personal developer portfolio showcasing my projects, technical skills, and web development experience. Designed to highlight my journey as a developer, my projects, and the technologies I work with.
 
-## Highlights
+## ✨ Highlights
 
-- Responsive and modern portfolio interface
-- Featured full-stack projects
+- Responsive portfolio interface with a warm, journal-inspired design
+- Featured full-stack development projects
 - Interactive developer-style UI
-- Project demos and source links
-- Skills and technology overview
-- Responsive design for desktop and mobile
+- Project descriptions and source code links
+- Technical skills and technology overview
+- Responsive layout for desktop and mobile devices
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### TaskTracker
-A full-stack task management application built with HTML, CSS, JavaScript, Python, FastAPI, SQLAlchemy, and PostgreSQL.
+### 1. GharSaathi — AI-Powered Household Companion
 
-🔗 Live Demo: https://task-tracker-1b62-5azf3la6c-ishrath2224s-projects.vercel.app
+GharSaathi is a household organization application designed to help individuals and families manage everyday tasks and groceries in one place. The project focuses on combining household management with AI-powered assistance.
 
-### GitHub Repository Analyzer
-A web application that analyzes GitHub repositories and presents repository information through an interactive dashboard.
+**Key Features**
+- Personal and shared household spaces
+- Grocery list management
+- Household task management
+- User authentication and household sharing
+- AI assistant concept with text and voice interaction
 
-🔗 Live Demo: https://github-repository-analyzer-xi.vercel.app
+**Technologies:** React, Node.js, Express.js, MongoDB, and Gemini API integration.
 
-## Other Projects
+🔗 **GitHub Repository:** https://github.com/IshrathMufaiza/GharSaathi
 
-### Restaurant Website
-A responsive restaurant website built with HTML, CSS, and JavaScript.
+### 2. GitHub Repository Analyzer
 
-🔗 Live Demo: https://ishrathmufaiza.github.io/Restaurant-Website/
+A web application that analyzes GitHub repositories and presents repository information through an interactive dashboard. The project explores repository analysis, GitHub integration, and caching to help manage API rate limits.
 
-### Coaching Institute Website
-A responsive coaching institute website built with HTML, CSS, and JavaScript.
+**Key Highlights**
+- GitHub repository analysis
+- Interactive repository dashboard
+- GitHub API integration
+- Caching to reduce repeated API requests and manage rate limits
 
-🔗 Live Demo: https://ishrathmufaiza.github.io/Coaching-Institute-Website/
+🔗 **Live Demo:** https://github-repository-analyzer-xi.vercel.app
 
-## Technologies
+## 🛠️ Technologies
 
+### Programming Languages
 - JavaScript
 - Python
 - C
 - C++
-- SQL
+
+### Frontend Development
 - HTML
 - CSS
 - React
 - Vite
+
+### Backend Development
 - Node.js
 - Express.js
 - FastAPI
 - REST APIs
+
+### Databases and ORM
 - MongoDB
 - PostgreSQL
 - SQLite
 - SQLAlchemy
-- Git & GitHub
+
+### Tools and Platforms
+- Git
+- GitHub
 - Vercel
 - Render
 
-## Author
+## 👩‍💻 Author
 
 **Ishrath Mufaiza**
 
-GitHub: https://github.com/IshrathMufaiza
+Software Engineer | Full-Stack Development
+
+🔗 **GitHub:** https://github.com/IshrathMufaiza
+
+---
+
+*Building, learning, and turning ideas into practical software projects.*
